@@ -9,6 +9,7 @@ Tools & Libraries Used:
 Microsoft Excel
 Pivot Tables
 Data Visualization
+Data Cleaning & Validation
 
 Project Objectives:
 Track revenue, quantity sold, and transactions across locations
